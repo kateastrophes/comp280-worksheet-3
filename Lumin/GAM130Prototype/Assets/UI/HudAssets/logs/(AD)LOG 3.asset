@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5e41777d5632e64589d0b345400e3f4, type: 3}
+  m_Name: (AD)LOG 3
+  m_EditorClassIdentifier: 
+  logTitle: (AD)LOG 3
+  text: "One of the interns went into the modified rafflesia greenhouse today without
+    a mask on; she\u2019s lucky one of the security guys noticed and managed to raise
+    the alarm- she was out for a few minutes and got one hell of a reprimanding but
+    there\u2019s no lasting damage. I keep telling HR they should put signs up, but
+    they won\u2019t listen to me, it\u2019s going to take someone dying before they
+    actually do anything."
+  collected: 0

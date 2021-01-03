@@ -1,0 +1,886 @@
+fileFormatVersion: 2
+guid: 88cb652919890564cbb32478d0b317ef
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: incubation tank keep sealed sprite sheet_0
+    21300002: incubation tank keep sealed sprite sheet_1
+    21300004: incubation tank keep sealed sprite sheet_2
+    21300006: incubation tank keep sealed sprite sheet_3
+    21300008: incubation tank keep sealed sprite sheet_4
+    21300010: incubation tank keep sealed sprite sheet_5
+    21300012: incubation tank keep sealed sprite sheet_6
+    21300014: incubation tank keep sealed sprite sheet_7
+    21300016: incubation tank keep sealed sprite sheet_8
+    21300018: incubation tank keep sealed sprite sheet_9
+    21300020: incubation tank keep sealed sprite sheet_10
+    21300022: incubation tank keep sealed sprite sheet_11
+    21300024: incubation tank keep sealed sprite sheet_12
+    21300026: incubation tank keep sealed sprite sheet_13
+    21300028: incubation tank keep sealed sprite sheet_14
+    21300030: incubation tank keep sealed sprite sheet_15
+    21300032: incubation tank keep sealed sprite sheet_16
+    21300034: incubation tank keep sealed sprite sheet_17
+    21300036: incubation tank keep sealed sprite sheet_18
+    21300038: incubation tank keep sealed sprite sheet_19
+    21300040: incubation tank keep sealed sprite sheet_20
+    21300042: incubation tank keep sealed sprite sheet_21
+    21300044: incubation tank keep sealed sprite sheet_22
+    21300046: incubation tank keep sealed sprite sheet_23
+    21300048: incubation tank keep sealed sprite sheet_24
+    21300050: incubation tank keep sealed sprite sheet_25
+    21300052: incubation tank keep sealed sprite sheet_26
+    21300054: incubation tank keep sealed sprite sheet_27
+    21300056: incubation tank keep sealed sprite sheet_28
+    21300058: incubation tank keep sealed sprite sheet_29
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1186
+        width: 445
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.075592, y: -93.5}
+        - {x: -191.21994, y: -87.494995}
+        - {x: -191.21994, y: 51.36792}
+        - {x: 212.88672, y: 51.36792}
+        - {x: 212.88672, y: -87.494995}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aca654cd3ecc0348b0572ede4dd547a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1019
+        width: 440
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -220, y: -81}
+        - {x: -220, y: -44.343506}
+        - {x: -213.91223, y: 74.84216}
+        - {x: 197.99567, y: 74.84216}
+        - {x: 197.99567, y: -78.06305}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969cf8dd699671f4ba3f429abb46a596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1102
+        width: 259
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.113525, y: -112.88733}
+        - {x: -119.322205, y: -95.72449}
+        - {x: -119.322205, y: 89.946045}
+        - {x: 108.47534, y: 89.946045}
+        - {x: 125.63818, y: -44.368896}
+        - {x: 108.47534, y: -95.72449}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d762742c4cc54a4d963e965644efd0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1126
+        width: 263
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.782837, y: -100.22449}
+        - {x: -114.18616, y: -58.097534}
+        - {x: -131.5, y: 3.2526855}
+        - {x: -114.18616, y: 94.80762}
+        - {x: 83.96643, y: 94.80762}
+        - {x: 129.21387, y: 50.334106}
+        - {x: 83.96643, y: -58.097534}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5d71e5036d3a04899db6685e25cbbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1139
+        width: 214
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.634766, y: -102.061646}
+        - {x: -89.634766, y: 96.09094}
+        - {x: 89.7948, y: 96.09094}
+        - {x: 89.7948, y: -102.061646}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b20c456dde75a04f9ba422ea2b7045e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1008
+        width: 186
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.46924, y: -58.177124}
+        - {x: -77.46924, y: 105.6499}
+        - {x: 28.628296, y: 105.6499}
+        - {x: 28.628296, y: -58.177124}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374e0a387b287fd49a008a2055a329d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 540
+        width: 227
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.04708, y: -124.817444}
+        - {x: -101.893814, y: -107.41571}
+        - {x: -113.5, y: -11.453918}
+        - {x: -58.194008, y: 47.786133}
+        - {x: -9.868431, y: 131.5534}
+        - {x: 113.5, y: 124.13202}
+        - {x: 110.972595, y: 38.716248}
+        - {x: 59.329666, y: -37.719055}
+        - {x: 13.880051, y: -125.22711}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff476e9e963ede4a92ae92618bebaba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 603
+        width: 147
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59.383865, y: -59.987915}
+        - {x: -73.5, y: -1.6048584}
+        - {x: -61.61029, y: 46.880188}
+        - {x: -17.824005, y: 69.14441}
+        - {x: 51.069916, y: 54.928772}
+        - {x: 68.33795, y: 2.0255127}
+        - {x: 33.383667, y: -67.40936}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688b56189281a71469be0f9228953fc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 553
+        width: 151
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.95587, y: -108.28577}
+        - {x: -63.95587, y: 114.839355}
+        - {x: 63.808716, y: 114.839355}
+        - {x: 63.808716, y: -108.28577}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b333c96ed46d1489eacf95db7c9d4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 589
+        width: 215
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.97394, y: -79.73334}
+        - {x: -101.97394, y: 63.770386}
+        - {x: 107.26367, y: 63.770386}
+        - {x: 107.26367, y: -79.73334}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d56f7fd6c6b4f4080d18458365c250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 563
+        width: 202
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96.90643, y: -99.87909}
+        - {x: -96.90643, y: 107.5069}
+        - {x: 93.81464, y: 107.5069}
+        - {x: 93.81464, y: -99.87909}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30665b3af386cf40b297d17768e22bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 586
+        width: 222
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -108.52045, y: -63.678345}
+        - {x: -108.52045, y: 75.19617}
+        - {x: 105.346436, y: 75.19617}
+        - {x: 105.346436, y: -63.678345}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a964aa6436a8bce42b509e335f2e2218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 588
+        width: 208
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.430908, y: -74.96228}
+        - {x: -89.9198, y: -56.28961}
+        - {x: -83.438965, y: 72.51807}
+        - {x: 70.62207, y: 75.29559}
+        - {x: 85.992676, y: 34.157104}
+        - {x: 28.959717, y: -34.069702}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5fb353b1017414395001ba97af56a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 566
+        width: 179
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.75049, y: -99.70337}
+        - {x: -87.05908, y: -70.73334}
+        - {x: -81.172485, y: 0.022827148}
+        - {x: -37.06433, y: 64.43793}
+        - {x: 2.0562744, y: 94.53656}
+        - {x: 71.25781, y: 95.91614}
+        - {x: 89.5, y: 36.002808}
+        - {x: 59.30249, y: -31.243774}
+        - {x: -1.8828125, y: -106.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badd887c4e28e5a46aa02c4950c3313f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 526
+        width: 280
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -136.28308, y: -143.87396}
+        - {x: -137.20898, y: 9.370789}
+        - {x: -136.28308, y: 134.80096}
+        - {x: 135.91101, y: 134.80096}
+        - {x: 139.61438, y: -17.987549}
+        - {x: 135.91101, y: -143.87396}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8210e479358d284392fdb2e4ea43eaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 584
+        width: 127
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.517334, y: -83.565796}
+        - {x: -58.072144, y: -17.035095}
+        - {x: -52.517334, y: 65.49286}
+        - {x: 56.73059, y: 65.49286}
+        - {x: 63.5, y: -16.661865}
+        - {x: 56.73059, y: -83.565796}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02288fe86e4dfd84f9c32b08d929dccb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 218
+        width: 224
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -110.24475, y: -91.73302}
+        - {x: -110.24475, y: 98.062195}
+        - {x: 84.17969, y: 98.062195}
+        - {x: 84.17969, y: -91.73302}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9d44fa937d12341b91d7c782a9a376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 249
+        width: 180
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85.226685, y: -57.773987}
+        - {x: -85.226685, y: 74.61978}
+        - {x: 84.20032, y: 74.61978}
+        - {x: 84.20032, y: -57.773987}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5894dda512d37419d9b44ffc64317a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 268
+        width: 175
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.07947, y: -65.05145}
+        - {x: -83.07947, y: 63.638947}
+        - {x: 86.347534, y: 63.638947}
+        - {x: 86.347534, y: -65.05145}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cd4c9bdf99d8147be4fb5d813e311b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 246
+        width: 167
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.17139, y: -80.068085}
+        - {x: -79.09729, y: 77.32309}
+        - {x: 74.5907, y: 74.54559}
+        - {x: 79.21985, y: -83.77139}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8824bdb04b7c16c4f96379b0a1f62657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 248
+        width: 217
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80.58965, y: -99}
+        - {x: -105.84304, y: -83.16144}
+        - {x: -92.88142, y: 56.638947}
+        - {x: 98.76547, y: 95.523834}
+        - {x: 108.5, y: 10.9331665}
+        - {x: 98.76547, y: -83.16144}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba7defbaea0a8a4d8e5751e5f2b2c07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 282
+        width: 201
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.5, y: -62.5}
+        - {x: -95.459625, y: 48.02899}
+        - {x: 76.74481, y: 48.02899}
+        - {x: 100.5, y: 15.601227}
+        - {x: 100.5, y: -24.247528}
+        - {x: 100.5, y: -62.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51373c642a9476409232ed59ce70ed3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 278
+        width: 135
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.8121338, y: -60.848114}
+        - {x: -63.298706, y: -55.29315}
+        - {x: -63.298706, y: 60.43564}
+        - {x: 65.39172, y: 60.43564}
+        - {x: 65.39172, y: -55.29315}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df62acc662b53ab47838fb11f091f91e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 254
+        width: 172
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.48169, y: -83.79059}
+        - {x: -84.48169, y: 78.22974}
+        - {x: 81.24194, y: 78.22974}
+        - {x: 81.24194, y: -83.79059}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286fc4ecf80b72349914616e39cc0669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 19
+        width: 134
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.80121, y: -50.196045}
+        - {x: -67, y: -39.723324}
+        - {x: -61.80121, y: 62.734894}
+        - {x: 42.99054, y: 62.734894}
+        - {x: 42.99054, y: -50.196045}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d35d32a33feef4e82cde409b50837b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 26
+        width: 163
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.51422, y: -65.80042}
+        - {x: -76.223694, y: -56.64386}
+        - {x: -76.223694, y: 54.25229}
+        - {x: 69.263916, y: 54.25229}
+        - {x: 69.263916, y: -56.64386}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bff34149dd41e1489a21fb154df2388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 5
+        width: 176
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.50705, y: -64.061356}
+        - {x: -76.36789, y: 54.973953}
+        - {x: -2.3374634, y: 67.92029}
+        - {x: 77.25891, y: 70.23489}
+        - {x: 77.25891, y: -64.061356}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d899b6483c62e004ebbe7e5450575cb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 44
+        width: 159
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.5, y: -50.305737}
+        - {x: -79.5, y: 40.425644}
+        - {x: 76.778046, y: 36.72232}
+        - {x: 79.5, y: -53.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f78a41cc0a71d47963960919bb0c99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 32
+        width: 174
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.004425, y: -67.5}
+        - {x: -84.061844, y: -56.93489}
+        - {x: -70.17441, y: 15.006546}
+        - {x: -6.292099, y: 53.238922}
+        - {x: 66.84851, y: 35.648148}
+        - {x: 61.210327, y: -0.9171066}
+        - {x: 32.592804, y: -48.602417}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a610fa9415c4194baab2ec59956e81a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: incubation tank keep sealed sprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 11
+        width: 159
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.4364, y: -71.87732}
+        - {x: -72.06555, y: 75.32968}
+        - {x: 73.28981, y: 77.181366}
+        - {x: 62.17984, y: -79.283966}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6575752299caa034d86fd233fc3649a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 42e0bc34ee3201b49b90fddf5ff4244a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

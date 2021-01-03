@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5e41777d5632e64589d0b345400e3f4, type: 3}
+  m_Name: (LD)LOG 3
+  m_EditorClassIdentifier: 
+  logTitle: (LD)LOG 3
+  text: "This is the third time this week I\u2019ve replaced that bulb in the plant
+    lab- it keeps burning out and I can tell maintenance is getting sick of coming
+    down and replacing it, each time I submit a ticket they take longer and longer
+    to respond to it. "
+  collected: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5e41777d5632e64589d0b345400e3f4, type: 3}
+  m_Name: (AD)LOG 2
+  m_EditorClassIdentifier: 
+  logTitle: (AD)LOG 2
+  text: "More problems for Dome 2; one of the pipes burst, flooding half the dome.The
+    head of research is pissed, they lost lost a lot of samples- half of the greenhouses
+    were destroyed and the ones that weren't, the samples became waterlogged- we might
+    end up having to throw them all out! Two months of research and careful experimentation
+    wasted because of one burst pipe, sometimes I wish I\u2019d taken a position in
+    the arachnid lab."
+  collected: 0

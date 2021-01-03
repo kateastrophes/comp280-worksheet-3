@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5e41777d5632e64589d0b345400e3f4, type: 3}
+  m_Name: (RD)LOG 2
+  m_EditorClassIdentifier: 
+  logTitle: (RD)LOG 2
+  text: "Another guy got injured trying to climb up the catwalks today- I don\u2019t
+    know how many times people have been told that they\u2019re not up to code yet.
+    I don\u2019t know why so many people want to go up there; there\u2019s nothing
+    there except for a bunch of sand and rocks!"
+  collected: 0
