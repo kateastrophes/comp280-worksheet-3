@@ -13,7 +13,6 @@ public class ClockScript : MonoBehaviour
 
     private float timeOfDay;
     private float startOfDay;
-    private int daysPassed;
     private float rotateAmount; 
 
 
@@ -22,7 +21,6 @@ public class ClockScript : MonoBehaviour
     void Start()
     {
         timeOfDay = 0;
-        // daysPassed = 0;
         rotateAmount = 0;
 
         startOfDay = Time.time;
@@ -38,8 +36,7 @@ public class ClockScript : MonoBehaviour
         timeOfDay = Time.time - startOfDay;
 
         if (timeOfDay >= dayLength)
-        {
-            // daysPassed += 1;            
+        {           
             timeOfDay -= dayLength;
             startOfDay = Time.time - timeOfDay;
         }
